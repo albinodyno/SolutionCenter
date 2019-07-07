@@ -1,2 +1,2 @@
-# SolutionCenter
-CIS440 project: employee feedback program
+# Project2
+CIS440 Project 2
